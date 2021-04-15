@@ -7,7 +7,7 @@ _You may download my plugin to activate it on your Wordpress website by this way
 
 __Button UP!__  est mon premier plugin pour Wordpress.
 
-Il ajoute un bouton qui s'affcihe au scroll et permet de remonter en haut du site en un clic. Ce bouton est paramétrable: l'administrateur peut en changer la couleur principale.
+Il ajoute un bouton qui s'affiche au scroll et permet de remonter en haut du site en un clic. Ce bouton est paramétrable: l'administrateur peut en changer la couleur principale.
 
 
 ## contenu du plugin
