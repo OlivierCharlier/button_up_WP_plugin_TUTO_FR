@@ -1,5 +1,5 @@
 # Button UP! : le TUTO en français 
-Tutorial en français pour créer votre plugin WP: insertion d'un bouton 'retour en haut'
+Didacticiel en français pour créer votre plugin WP: insertion d'un bouton 'retour en haut'
 ### (no english version)
 
 ### Une extension pour Wordpress
