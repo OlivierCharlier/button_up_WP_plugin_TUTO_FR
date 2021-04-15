@@ -1,6 +1,7 @@
 # Button UP! : le TUTO en français 
 Didacticiel en français pour créer votre plugin WP: insertion d'un bouton 'retour en haut'
 #### (no english version)
+_You may download my plugin to activate it on your Wordpress website by this way : [Button UP!](https://github.com/OlivierCharlier/button_up_WP_plugin)_
 
 ## Une extension pour Wordpress
 
