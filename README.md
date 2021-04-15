@@ -1,12 +1,13 @@
 # Button UP! : le TUTO en français 
 Didacticiel en français pour créer votre plugin WP: insertion d'un bouton 'retour en haut'
-### (no english version)
+#### (no english version)
+_You may download my plugin to activate it on your Wordpress website by this way : [Button UP!](https://github.com/OlivierCharlier/button_up_WP_plugin)_
 
-### Une extension pour Wordpress
+## Une extension pour Wordpress
 
 __Button UP!__  est mon premier plugin pour Wordpress.
 
-Il ajoute un bouton qui s'affcihe au scroll et permet de remonter en haut du site en un clic. Ce bouton est paramétrable: l'administrateur peut en changer la couleur principale.
+Il ajoute un bouton qui s'affiche au scroll et permet de remonter en haut du site en un clic. Ce bouton est paramétrable: l'administrateur peut en changer la couleur principale.
 
 
 ## contenu du plugin
@@ -35,10 +36,14 @@ __ 'oli_plugin.php'
 
 Pour suivre ce tuto, vous avez besoin d'avoir accès à l'administration d'un site worpdress et à ses dossiers.
 
-Le plus facile est de travailler en local pour visualiser toutes vos modifications instantanément. En ligne, le transfers via ftp risque d'être relativement contraignant.
+Le plus facile est de travailler en local pour visualiser toutes vos modifications instantanément. En ligne, le transfert via ftp risque d'être relativement contraignant.
 
 ======================================================================================================================================================
-__POUR COMMENCER: créer un dossier 'oli_plugin_april_2021' dans le dossier /wp_content_plugins/ de Wordpress et nulle part ailleurs, c'est une des conditioons de base de Wordpress pour la reconnaissance du plugin par le site. Ensuite, démarrez par le fichier 'oli_plugin.php', à créer dans ce nouveau dossier.__
+
+__POUR COMMENCER: créer un dossier 'oli_plugin_april_2021' dans le dossier /wp_content_plugins/ de Wordpress et nulle part ailleurs, c'est une des conditions de base de Wordpress, pour la reconnaissance du plugin, par le site. Ensuite, démarrez par le fichier 'oli_plugin.php', à créer dans ce nouveau dossier.__
+
+Ouvrez mes fichiers un à un, en commençant par oli_plugin.php. Ils sont remplis de commentaires pour vous aiguiller et vous apprendre comment créer un plugin. Vous y trouverez aussi de nombreuses astuces pour les novices (comme moi) qu'il me plait de partager avec vous.
+
 ======================================================================================================================================================
 
 Ce plugin, créé lors d'une formation Web Dev chez BeCode, en projet personnel, n'est pas fini. De nombreuses améliorations sont possibles. Partagez les vôtres avec moi et nous ferons évoluer ce plugin ensemble. En l'état, il est téléchargeable depuis [mon github](https://github.com/OlivierCharlier/button_up_WP_plugin) et l'utilisateur peut l'installer sur son site wordpress, il est fonctionnel.
@@ -61,10 +66,10 @@ __Send me your code__ to add it to this plugin and upgrade to a new version.
 
 
 # Important
-Je n'ai fait aucun test de sécurité sur le plugin actuellement. Il n'a pas non plus été corrigé ou nettoyé par queqlqu'un d'autre. Bienvenue dans ma V.1.!
+Je n'ai fait aucun test de sécurité sur le plugin actuellement. Il n'a pas non plus été corrigé ou nettoyé par quelqu'un d'autre. Bienvenue dans ma V.1.!
 
 # Feedback
-__Vos avis, conseils, correctifs et critiques + et -  sont les bienvenus__: senvoyez-moi un email via mail@olione.be (mon adresse n'est volontairement pas cliquable).
+__Vos avis, conseils, correctifs et critiques + et -  sont les bienvenus__: envoyez-moi un email via mail@olione.be.
 
 
 ## Merci 
