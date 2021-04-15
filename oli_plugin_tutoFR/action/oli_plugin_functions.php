@@ -41,7 +41,7 @@ add_action('wp_head', 'oli_plugin_style');
 function oli_plugin_style(){
   echo('<!-- ----- CSS -  Oli Plugin Style ------ -->'); // insertion d'un commentaire dans la feuille de style. Ce sera plus visuel pour retrouver noter code en affichant la source ou via l'inspecteur du navigateur.
   ?>
-  <link rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/plugins/oli_plugin/css/oli_plugin_style.php?v='.time()" type="text/css" media="screen">
+  <link rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/plugins/oli_plugin_tutoFR/css/oli_plugin_style.php?v='.time()" type="text/css" media="screen">
   <?php
 };
 
