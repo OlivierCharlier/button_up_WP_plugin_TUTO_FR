@@ -1,8 +1,8 @@
 # Button UP! : le TUTO en français 
 Didacticiel en français pour créer votre plugin WP: insertion d'un bouton 'retour en haut'
-### (no english version)
+#### (no english version)
 
-### Une extension pour Wordpress
+## Une extension pour Wordpress
 
 __Button UP!__  est mon premier plugin pour Wordpress.
 
@@ -38,7 +38,11 @@ Pour suivre ce tuto, vous avez besoin d'avoir accès à l'administration d'un si
 Le plus facile est de travailler en local pour visualiser toutes vos modifications instantanément. En ligne, le transfers via ftp risque d'être relativement contraignant.
 
 ======================================================================================================================================================
-__POUR COMMENCER: créer un dossier 'oli_plugin_april_2021' dans le dossier /wp_content_plugins/ de Wordpress et nulle part ailleurs, c'est une des conditioons de base de Wordpress pour la reconnaissance du plugin par le site. Ensuite, démarrez par le fichier 'oli_plugin.php', à créer dans ce nouveau dossier.__
+
+__POUR COMMENCER: créer un dossier 'oli_plugin_april_2021' dans le dossier /wp_content_plugins/ de Wordpress et nulle part ailleurs, c'est une des conditions de base de Wordpress, pour la reconnaissance du plugin, par le site. Ensuite, démarrez par le fichier 'oli_plugin.php', à créer dans ce nouveau dossier.__
+
+Ouvrez mes fichiers un à un, en commençant par oli_plugin.php. Ils sont remplis de commentaires pour vous aiguiller et vous apprendre comment créer un plugin. Vous y trouverez aussi de nombreuses astuces pour les novices (comme moi) qu'il me plait de partager avec vous.
+
 ======================================================================================================================================================
 
 Ce plugin, créé lors d'une formation Web Dev chez BeCode, en projet personnel, n'est pas fini. De nombreuses améliorations sont possibles. Partagez les vôtres avec moi et nous ferons évoluer ce plugin ensemble. En l'état, il est téléchargeable depuis [mon github](https://github.com/OlivierCharlier/button_up_WP_plugin) et l'utilisateur peut l'installer sur son site wordpress, il est fonctionnel.
