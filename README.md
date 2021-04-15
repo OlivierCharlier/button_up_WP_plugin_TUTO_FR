@@ -35,7 +35,7 @@ __ 'oli_plugin.php'
 
 Pour suivre ce tuto, vous avez besoin d'avoir accès à l'administration d'un site worpdress et à ses dossiers.
 
-Le plus facile est de travailler en local pour visualiser toutes vos modifications instantanément. En ligne, le transfers via ftp risque d'être relativement contraignant.
+Le plus facile est de travailler en local pour visualiser toutes vos modifications instantanément. En ligne, le transfert via ftp risque d'être relativement contraignant.
 
 ======================================================================================================================================================
 
