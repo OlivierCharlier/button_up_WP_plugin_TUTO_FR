@@ -68,7 +68,7 @@ __Send me your code__ to add it to this plugin and upgrade to a new version.
 Je n'ai fait aucun test de sécurité sur le plugin actuellement. Il n'a pas non plus été corrigé ou nettoyé par quelqu'un d'autre. Bienvenue dans ma V.1.!
 
 # Feedback
-__Vos avis, conseils, correctifs et critiques + et -  sont les bienvenus__: senvoyez-moi un email via mail@olione.be (mon adresse n'est volontairement pas cliquable).
+__Vos avis, conseils, correctifs et critiques + et -  sont les bienvenus__: envoyez-moi un email via mail@olione.be.
 
 
 ## Merci 
