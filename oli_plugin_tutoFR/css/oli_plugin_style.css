@@ -1,0 +1,49 @@
+/* Si vous ne créez pas de page d'administration du plugin (permettant la modification de la couleur du bouton), "décommentez" le style background afin de lui attribuer une couleur permanente.
+Gérer les commentaires en CSS: https://developer.mozilla.org/fr/docs/Web/CSS/Comments
+*/
+
+a#cRetour{
+      /* construction du bouton tel qu'il doit apparaitre quand il est actif */
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  border-radius: 15%;
+  font-size:25px;
+  color:#fff;
+      /* background: #292929; */
+  box-shadow: 1px 1px 4px 1px rgba(255, 255, 255, 0.2);
+  position:fixed;
+  right:20px;
+  opacity:1;
+  z-index:99999;
+  transition:all ease-in 0.2s;
+  text-decoration: none;
+  height: 50px;
+  width: 50px;
+  }
+  a#cRetour:before{ content: "\25b2"; } 
+       /* \25b2 est le code Unicode pour le triangle  */
+  a#cRetour:hover{
+    background:rgba(0, 0, 0, 1);
+    transition:all ease-in 0.2s;
+  }
+  a#cRetour.cInvisible{
+    bottom:-35px;
+        /* pour qu'il apparaisse depuis sous le bas de la page  */
+    opacity:0; 
+        /* et donc invisible */
+    transition:all ease-in 0.5s;
+        /* apparition douce */
+  }
+  
+  a#cRetour.cVisible{
+    bottom: 20px;
+        /* pour qu'il se place à 20px au-dessus du bas de la page */
+    opacity:1;
+        /* et donc visible */
+  }
+  
+  html {
+  scroll-behavior: smooth;
+        /* permet un déplacement souple dans la page (pour les liens internes, #ancres) */
+  }
